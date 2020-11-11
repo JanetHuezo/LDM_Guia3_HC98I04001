@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LDM_Guia3_HC98I04001</string>
+    <string name="btnLista">Ver Lista</string>
+    <string name="btnAgregarN">Agregar Nombre</string>
+    <string name="btnMisDatos">Mis Datos</string>
+    <string name="txtAgregar">Ingresar nombre</string>
+    <string name="txthiddent">Nombre</string>
+    //Activity Mostrar Datos
+    <string name="txtMostrarDatos">Datos del Estudiante:</string>
+    <string name="txtNombre">Nombre:Janet Carolina Huezo Castaneda</string>
+    <string name="txtCodigo">Código: HC98-I04-001</string>
+
+</resources>
